@@ -1,0 +1,27 @@
+.navbar-background {
+  padding: 10px;
+  padding-left: 15px;
+  padding-right: 15px;
+  background-color: #fbc7d4;
+  display: flex;
+  justify-content: space-around;
+}
+.logo-con {
+  display: flex;
+}
+.score-con {
+  display: flex;
+}
+.emoji-game-heading {
+  color: #ffffff;
+  font-weight: 600;
+}
+.score-para {
+  color: #ffffff;
+  margin-right: 10px;
+  font-size: 500;
+}
+.total-score-para {
+  color: #ffffff;
+  font-size: 500;
+}
